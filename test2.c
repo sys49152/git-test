@@ -1,5 +1,7 @@
 /*
  * just a test
- * more or less
  */
-
+int main()
+{
+	// test
+}
